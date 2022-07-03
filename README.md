@@ -6,7 +6,8 @@ Agency 451 Website <br>
 -The site has been made compatible with mobile devices.<br>
 -The site includes the service, work and contact us pages.<br>
 -A side menu that can be opened and closed is used on the site.<br>
--In the work, html, css and js were used.
+-In this study, help was taken from the Traversy Media youtube channel. {https://www.youtube.com/c/TraversyMedia}<br>
+-In the work, html, css and js were used.<br>
 
 <br><br>
 
